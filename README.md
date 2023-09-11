@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EnginLeader.
+- 👀 I’m interested in Rpg games and coding.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 You can't reach me.
